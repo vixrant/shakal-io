@@ -11,6 +11,9 @@
 > *NOTE:* If you're running this program either on the website shakal-io.netlify.com or on your `localhost`, do note that without a TURN relay server, this program will only work on your local network! Due to how symmetric NATs work, it is impossible as of now to set up a true peer-to-peer connection over the internet.
 
 ### Technology stack
+
+[![Join the chat at https://gitter.im/shakal-io/community](https://badges.gitter.im/shakal-io/community.svg)](https://gitter.im/shakal-io/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 1. React for web app.
 2. NodeJS for http and ws signalling server.
 
