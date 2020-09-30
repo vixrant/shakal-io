@@ -31,7 +31,7 @@ class StartupModal extends Component {
     }
 
     render = () => (
-        <Modal open className='animated bounceIn'>
+        <Modal open className='animated bounceIn' size='tiny' >
             <Modal.Header>Enter a username!</Modal.Header>
             <Modal.Content>
                 <Form>
