@@ -8,9 +8,10 @@
   "private": false,
   "dependencies": {
     "express": "^4.16.4",
-    "lodash": "^4.17.15",
-    "uuid": "^3.3.2",
-    "ws": "^6.1.0"
+    "http": "0.0.1-security",
+    "lodash": "^4.17.20",
+    "uuid": "^3.4.0",
+    "ws": "^6.2.1"
   },
   "devDependencies": {
     "eslint": "^5.8.0",

@@ -18,6 +18,21 @@
 1. React for web app.
 2. NodeJS for http and ws signalling server.
 
+### Insctructions to run the project
+#### React app
+``` 
+cd app  
+npm install
+npm start 
+```
+#### Server
+``` 
+cd server  
+npm install ws lodash uuid http
+nodemon server.js
+```
+
+
 ### Easy Deploy
 
 #### React App
