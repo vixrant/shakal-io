@@ -28,7 +28,7 @@ npm start
 #### Server
 ``` 
 cd server  
-npm install ws lodash uuid http
+npm install
 nodemon server.js
 ```
 
